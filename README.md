@@ -1,10 +1,7 @@
 # Electronic Shopping Machine Using 8051 Microcontroller and Embedded C #
 
-Our team includes:
-Anant Chaudhary
-Aditya Phatak
-Nitish Kumar
-Aryan Kamat
+## Our team include:<br>Aditya Phatak<br>Anant Choudhary<br>Aryan Kamat<br>Nitish Kumar Pathak
+
 
 The project involved designing a shopping machine that utilizes an LCD display, a keypad, a buzzer, and other components to provide users with an interactive shopping experience.
 
